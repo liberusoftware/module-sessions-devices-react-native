@@ -1,0 +1,25 @@
+{
+  "repository": "module-sessions-devices-react-native",
+  "capabilityKey": "liberusoftware/sessions-devices",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-sessions-devices-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/boilerplate/nextjs/sessions-devices.md",
+  "presentationPlan": "projects/boilerplate/react-native/sessions-devices.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
